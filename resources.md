@@ -47,6 +47,7 @@
 * [Ref-qualifiers](https://akrzemi1.wordpress.com/2014/06/02/ref-qualifiers/)
 * [The Lost Art of Structure Packing](https://www.catb.org/esr/structure-packing/)
 * [Universal References in C++11](https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers)
+* [Handles vs Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 
 ## SO questions
 * [What are the differences between a pointer variable and a reference variable?](https://stackoverflow.com/questions/57483/what-are-the-differences-between-a-pointer-variable-and-a-reference-variable)
@@ -78,11 +79,16 @@
 
 ## YouTube videos
 * [A Kaleidoscope of C++ Lambdas - Dawid Zalewski - C++ on Sea 2024](https://www.youtube.com/watch?v=lQRQJ9NDzhc)
+* [Andrew Kelley Practical Data Oriented Design (DoD)](https://www.youtube.com/watch?v=IroPQ150F6c)
 * [C++ - copy and swap](https://www.youtube.com/watch?v=7LxepUEcXA4)
+* [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Designing a Physics Engine in 5 minutes](https://www.youtube.com/watch?v=-_IspRG548E)
+* [Practical Optimizations](https://www.youtube.com/watch?v=NAVbI1HIzCE)
 * [Return Value Optimization and Copy Elision](https://www.youtube.com/watch?v=HNYOx-Vh_VA)
+* [Casey Muratori - The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI)
 
 ## Courses
+* [Computer, Enhance!](https://www.computerenhance.com/)
 * [cplings](https://github.com/rdjondo/cplings)
 * [The Modern C++ Challenger](https://www.udemy.com/course/the-modern-c-challenger/)
 
