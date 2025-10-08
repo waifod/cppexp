@@ -48,6 +48,7 @@
 * [The Lost Art of Structure Packing](https://www.catb.org/esr/structure-packing/)
 * [Universal References in C++11](https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers)
 * [Handles vs Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+* [Memory access is O(N^[1/3]) ](https://vitalik.eth.limo/general/2025/10/05/memory13.html)
 
 ## SO questions
 * [What are the differences between a pointer variable and a reference variable?](https://stackoverflow.com/questions/57483/what-are-the-differences-between-a-pointer-variable-and-a-reference-variable)
